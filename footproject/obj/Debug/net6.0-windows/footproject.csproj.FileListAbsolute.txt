@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\footproject\footproject\bin\Debug\net6.0-windows\footproject.exe
+C:\Users\User\Desktop\footproject\footproject\bin\Debug\net6.0-windows\footproject.deps.json
+C:\Users\User\Desktop\footproject\footproject\bin\Debug\net6.0-windows\footproject.runtimeconfig.json
+C:\Users\User\Desktop\footproject\footproject\bin\Debug\net6.0-windows\footproject.dll
+C:\Users\User\Desktop\footproject\footproject\bin\Debug\net6.0-windows\footproject.pdb
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.Form1.resources
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.AssemblyInfo.cs
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.dll
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\refint\footproject.dll
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.pdb
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\footproject.genruntimeconfig.cache
+C:\Users\User\Desktop\footproject\footproject\obj\Debug\net6.0-windows\ref\footproject.dll
