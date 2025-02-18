@@ -21,5 +21,7 @@ namespace footproject
     }
 }
 
-https://hackmd.io/_uploads/ByqV9o-51e.png
-https://hackmd.io/_uploads/S14XBnb5kl.png
+![image](https://github.com/user-attachments/assets/2878cd8e-2365-4f0c-a770-6bce85ea44b7)
+
+![image](https://github.com/user-attachments/assets/cb44e1f3-7153-4c10-8ee1-1ffb1f3ffd9d)
+
